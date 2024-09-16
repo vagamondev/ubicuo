@@ -1,7 +1,7 @@
 {
     "name": "Ubicuo",
     "short_name": "Ubicuo",
-    "start_url": "./?utm_source=web_app_manifest",
+    "start_url": "https://script.google.com/a/macros/g.educaand.es/s/AKfycbzATIVH2Enw4z7UCDupTYRQ6kdcatrf3sbDXVdGq4MhhyIGH6aIyJg-R9I_pbaTDAuf/exec",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#000000",
